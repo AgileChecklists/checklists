@@ -1,7 +1,7 @@
 # 
 # Makefile for generating different output formats from the Markdown source.
 #
-# See file LICENSE for copyright information.
+# See file LICENSE.md for copyright information.
 #
 
 OUTPUT_DIR=output
