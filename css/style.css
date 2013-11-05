@@ -1,0 +1,20 @@
+/*
+ * CSS styles for the Agile Checklists.
+ * 
+ * See the file LICENSE for copyright information.
+ */
+
+body {
+	margin: 1em 1em 1em 1em;
+
+	font-family: Georgia, serif;
+	color: #444;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #222;
+}
+
+ul {
+	list-style-type: square;
+}
