@@ -5,16 +5,18 @@ This brief checklist helps you remember the most important things to become a go
 ## Product Vision 
 
  * I have a product vision (created with customers, end users, and investors, when possible) 
- * I can answer to questions about the product vision in a concise and motivating way 
+ * I can answer to questions about the product vision and business model in a concise and motivating way 
  * I have a short tagline for the product vision, for example “1,000 songs in your pocket” (iPod in 2001),             
 to communicate the essence and value of the product release. 
  
 ## Stakeholders 
 
  * I understand the needs of my stakeholders (especially customers, end users, and investors)  
- * I communicate regularly with the stakeholders to understand their needs and to manage their expectations 
+ * I communicate regularly with the stakeholders to understand their needs and to manage their expectations
+ * I can answer questions about how each product backlog item will generate value for the stakeholders 
  * I am motivated to work as a Product Owner, and make sure I have the stakeholders’ mandate and trust 
- 
+ * My forecasts to stakeholders are based on development team’s measured velocity or throughput
+
 ## Product Backlog  
 
  * I have a product backlog 
@@ -51,7 +53,7 @@ to improve our cooperation.
 ## Scrum Events 
 
  * I participate in sprint planning meetings to select the product backlog items with the team 
- * I participate in sprint review meetings, give constructive feedback, and verify which of the selected product 
+ * I participate in sprint review meetings, give and gather constructive feedback, and verify which of the selected product 
 backlog items fulfill their unique Acceptance Criteria and the general Definition of Done. 
  * I participate in retrospective meetings to observe and improve my own work as a Product Owner 
  * I work with my development team even on daily basis, when needed, to clarify the requirements, work on 
