@@ -5,7 +5,7 @@ This brief checklist helps you remember the most important things to become a go
 ## Product Vision 
 
  * I have a product vision (created with customers, end users, and investors, when possible) 
- * I can answer to questions about the product vision and business model in a concise and motivating way 
+ * I can answer questions about the product vision and business model in a concise and motivating way 
  * I have a short tagline for the product vision, for example “1,000 songs in your pocket” (iPod in 2001),             
 to communicate the essence and value of the product release. 
  
@@ -15,7 +15,7 @@ to communicate the essence and value of the product release.
  * I communicate regularly with the stakeholders to understand their needs and to manage their expectations
  * I can answer questions about how each product backlog item will generate value for the stakeholders 
  * I am motivated to work as a Product Owner, and make sure I have the stakeholders’ mandate and trust 
- * My forecasts to stakeholders are based on development team’s measured velocity or throughput
+ * My forecasts towards stakeholders are based on development team’s measured velocity or throughput
 
 ## Product Backlog  
 
@@ -25,7 +25,7 @@ to communicate the essence and value of the product release.
  * The product backlog is accessible to all scrum team members 
  * The product backlog items are ordered (based on value, risk, work estimates, dependencies, etc.)  
  * The product backlog items are clearly expressed and more detailed towards the top 
- * I regularly refine the product backlog, with at least one developer, to get the top of the product backlog 
+ * I regularly refine the product backlog with at least one developer to get the top of the product backlog 
 ready for the next sprint (or release) planning meeting. 
  
 ## Development Team 
@@ -35,9 +35,9 @@ ready for the next sprint (or release) planning meeting.
  * There is only one Product Owner who chooses the product backlog items and refines them with the 
 development team. Otherwise, developers do not know who to listen. 
  * I motivate my development team by occasionally describing my product vision, including the planned 
-benefits and impacts of the next product release or increment. 
+benefits and impacts of the next product release or increment
  * I motivate and train my developers by involving them in writing and analyzing user stories, when possible 
-(thus also reducing my own work). 
+(thus also reducing my own work)
  * I trust my Scrum team’s development capabilities. If not, I will try and build trust by offering them training, 
 recruiting, better communication, personnel changes, etc. 
  * My Scrum team trusts my business domain and end user knowledge. If not, I will try and build trust by 
@@ -57,6 +57,6 @@ to improve our cooperation.
 backlog items fulfill their unique Acceptance Criteria and the general Definition of Done. 
  * I participate in retrospective meetings to observe and improve my own work as a Product Owner 
  * I work with my development team even on daily basis, when needed, to clarify the requirements, work on 
-the design, and optimize the sprint’s outcome. 
- * I have scheduled sprint events with Scrum Master (for example as repetitive calendar events) 
+the design, and optimize the outcome of the sprint.
+ * I have scheduled sprint events with the Scrum Master (for example as recurring calendar events) 
  
